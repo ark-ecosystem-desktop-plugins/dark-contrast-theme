@@ -1,0 +1,23 @@
+{
+  "name": "ark-desktop-wallet-dark-contrast",
+  "title": "Dark contrast theme",
+  "version": "0.1.0",
+  "description": "Dark contrast theme",
+  "main": "index.js",
+  "permissions": [
+    "THEMES"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-a-m-l/ark-desktop-wallet-dark-contrast.git"
+  },
+  "keywords": [
+    "ark"
+  ],
+  "author": "Juan A. Martín <juan@ark.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-a-m-l/ark-desktop-wallet-dark-contrast/issues"
+  },
+  "homepage": "https://github.com/j-a-m-l/ark-desktop-wallet-dark-contrast#readme"
+}
