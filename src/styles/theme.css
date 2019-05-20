@@ -108,7 +108,10 @@
 }
 
 .theme-dark-contrast .text-blue,
-.theme-dark-contrast a {
+.theme-dark-contrast a,
+.theme-dark-contrast .WalletButton__create .rounded-full,
+.theme-dark-contrast .WalletButton__import .rounded-full,
+.theme-dark-contrast .WalletButton__load-ledger-wallets .rounded-full {
   color: #70f0ff !important;
 }
 .theme-dark-contrast .a:hover {
