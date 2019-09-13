@@ -1,5 +1,5 @@
 {
-  "name": "ark-desktop-wallet-dark-contrast",
+  "name": "@arkecosystem/desktop-wallet-theme-dark-contrast",
   "title": "Dark contrast theme",
   "version": "0.1.0",
   "description": "Dark contrast theme",
@@ -9,15 +9,22 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/j-a-m-l/ark-desktop-wallet-dark-contrast.git"
+    "url": "git+https://github.com/ark-ecosystem-desktop-plugins/dark-contrast-theme.git"
   },
   "keywords": [
-    "ark"
+    "theme",
+    "dark",
+    "contrast",
+    "@arkecosystem",
+    "desktop-wallet",
+    "plugin"
   ],
-  "author": "Juan A. Martín <juan@ark.io>",
+  "contributors": [
+    "Juan A. Martín <juan@ark.io>"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/j-a-m-l/ark-desktop-wallet-dark-contrast/issues"
+    "url": "https://github.com/ark-ecosystem-desktop-plugins/dark-contrast-theme/issues"
   },
-  "homepage": "https://github.com/j-a-m-l/ark-desktop-wallet-dark-contrast#readme"
+  "homepage": "https://github.com/ark-ecosystem-desktop-plugins/dark-contrast-theme#readme"
 }
