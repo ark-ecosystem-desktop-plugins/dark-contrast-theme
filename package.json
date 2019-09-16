@@ -1,7 +1,7 @@
 {
   "name": "@arkecosystem/desktop-wallet-theme-dark-contrast",
   "title": "Dark contrast theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Dark contrast theme",
   "main": "index.js",
   "permissions": [
@@ -10,6 +10,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ark-ecosystem-desktop-plugins/dark-contrast-theme.git"
+  },
+  "desktop-wallet": {
+    "categories": [
+      "utility"
+    ],
+    "minimumVersion": "2.6"
   },
   "keywords": [
     "theme",
