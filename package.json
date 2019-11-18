@@ -11,6 +11,12 @@
     "type": "git",
     "url": "git+https://github.com/ark-ecosystem-desktop-plugins/dark-contrast-theme.git"
   },
+  "desktop-wallet": {
+    "categories": [
+      "utility"
+    ],
+    "minVersion": "2.6"
+  },
   "keywords": [
     "theme",
     "dark",
