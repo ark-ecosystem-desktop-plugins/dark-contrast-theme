@@ -3,6 +3,7 @@
   "title": "Dark Contrast Theme",
   "version": "0.1.2",
   "description": "Dark contrast theme",
+  "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/dark-contrast-theme/master/logo.png",
   "main": "index.js",
   "permissions": [
     "THEMES"
