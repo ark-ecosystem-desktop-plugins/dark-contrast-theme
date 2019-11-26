@@ -1,6 +1,6 @@
 {
   "name": "@arkecosystem/desktop-wallet-theme-dark-contrast",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Dark contrast theme",
   "main": "index.js",
   "repository": {
