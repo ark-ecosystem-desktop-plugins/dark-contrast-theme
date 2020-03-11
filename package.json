@@ -1,6 +1,6 @@
 {
   "name": "@arkecosystem/desktop-wallet-theme-dark-contrast",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Dark contrast theme",
   "main": "index.js",
   "repository": {
@@ -9,7 +9,13 @@
   },
   "desktop-wallet": {
     "title": "Dark Contrast Theme",
-    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/dark-contrast-theme/master/logo.png",
+    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/dark-contrast-theme/master/images/logo.png",
+	    "images": [
+      "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/dark-contrast-theme/master/images/preview-1.jpg",
+      "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/dark-contrast-theme/master/images/preview-2.jpg",
+      "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/dark-contrast-theme/master/images/preview-3.jpg",
+	  "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/dark-contrast-theme/master/images/preview-4.jpg"
+    ],
     "categories": [
       "theme"
     ],
